@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 181d03f4f67dbdb4a98aba53cc74c44e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_LftCtrl
+    100002: Arm_RtCtrl
+    100004: BodyMSH
+    100006: COG
+    100008: Elbow_LftCtrl
+    100010: Elbow_RtCtrl
+    100012: FeatherMSH
+    100014: Global
+    100016: HatMSH
+    100018: Head_JNT
+    100020: HeadMSH
+    100022: Hip_JNT
+    100024: ikHandle_LftArm
+    100026: ikHandle_LftLeg
+    100028: ikHandle_RtArm
+    100030: ikHandle_RtLeg
+    100032: //RootNode
+    100034: knee_LftCtrl
+    100036: knee_RtCtrl
+    100038: L_Ear_JNT
+    100040: L_EarTip_JNT
+    100042: L_Elbow_JNT
+    100044: L_Foot_JNT
+    100046: L_Hand_JNT
+    100048: L_Knee_JNT
+    100050: L_Leg_JNT
+    100052: L_Shoulder_JNT
+    100054: Leg_LftCtrl
+    100056: Leg_RtCtrl
+    100058: Mesh
+    100060: Neck_JNT
+    100062: R_Ear_JNT
+    100064: R_EarTip_JNT
+    100066: R_Elbow_JNT
+    100068: R_Foot_JNT
+    100070: R_Hand_JNT
+    100072: R_Knee_JNT
+    100074: R_Leg_JNT
+    100076: R_Shoulder_JNT
+    100078: Root_JNT
+    100080: ScarfMSH
+    100082: Spin_HighCtrl
+    100084: Spin_MidHighCtrl
+    100086: Spin_MidlowCtrl
+    100088: Spine_lowCtrl
+    100090: SpineA_JNT
+    100092: SpineB_JNT
+    100094: SpineC_JNT
+    100096: tail_JNT
+    100098: tail_JNT1
+    100100: tail_JNT2
+    100102: tail_JNT3
+    100104: tail_JNT4
+    100106: tail_JNT5
+    100108: tail_JNT6
+    400000: Arm_LftCtrl
+    400002: Arm_RtCtrl
+    400004: BodyMSH
+    400006: COG
+    400008: Elbow_LftCtrl
+    400010: Elbow_RtCtrl
+    400012: FeatherMSH
+    400014: Global
+    400016: HatMSH
+    400018: Head_JNT
+    400020: HeadMSH
+    400022: Hip_JNT
+    400024: ikHandle_LftArm
+    400026: ikHandle_LftLeg
+    400028: ikHandle_RtArm
+    400030: ikHandle_RtLeg
+    400032: //RootNode
+    400034: knee_LftCtrl
+    400036: knee_RtCtrl
+    400038: L_Ear_JNT
+    400040: L_EarTip_JNT
+    400042: L_Elbow_JNT
+    400044: L_Foot_JNT
+    400046: L_Hand_JNT
+    400048: L_Knee_JNT
+    400050: L_Leg_JNT
+    400052: L_Shoulder_JNT
+    400054: Leg_LftCtrl
+    400056: Leg_RtCtrl
+    400058: Mesh
+    400060: Neck_JNT
+    400062: R_Ear_JNT
+    400064: R_EarTip_JNT
+    400066: R_Elbow_JNT
+    400068: R_Foot_JNT
+    400070: R_Hand_JNT
+    400072: R_Knee_JNT
+    400074: R_Leg_JNT
+    400076: R_Shoulder_JNT
+    400078: Root_JNT
+    400080: ScarfMSH
+    400082: Spin_HighCtrl
+    400084: Spin_MidHighCtrl
+    400086: Spin_MidlowCtrl
+    400088: Spine_lowCtrl
+    400090: SpineA_JNT
+    400092: SpineB_JNT
+    400094: SpineC_JNT
+    400096: tail_JNT
+    400098: tail_JNT1
+    400100: tail_JNT2
+    400102: tail_JNT3
+    400104: tail_JNT4
+    400106: tail_JNT5
+    400108: tail_JNT6
+    2100000: BabyButtonMAT
+    2100002: BabyShortsMAT
+    2100004: BabyTexturesMAT
+    2100006: BabyTrimMAT
+    2100008: BabyHatMAT
+    2100010: BabyShirtMAT
+    2100012: BabyScarfMAT
+    2100014: BabyFeatherMAT
+    4300000: BodyMSH
+    4300002: ScarfMSH
+    4300004: HatMSH
+    4300006: FeatherMSH
+    4300008: HeadMSH
+    7400000: NewKittenIdle
+    9500000: //RootNode
+    13700000: BodyMSH
+    13700002: FeatherMSH
+    13700004: HatMSH
+    13700006: HeadMSH
+    13700008: ScarfMSH
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: NewKittenIdle
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 18
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.14999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+The game is largely complete in the features we have in it. All open tasks we closed out and we don't have any major issues remaining within the Unity Collaborate project. That being said there are still areas that could use polish and some features that we thought would be fun/good to add, but as we have it now the game is a complete package.
+
+===== Xbox Controller (Recommended)
+----- Grandma (P1)
+- Left Stick - Move, Navigate Menu
+- A Button - Jump, Confirm In Menu
+- X Button - Grab Boxes/Baby (hold, release to let go/throw)
+- B Button - End Grab Without Throwing
+- Y Button - Meow
+- Right Bumper - Lengthen Scarf
+- Left Bumper - Shorten Scarf
+- Back/Select - Reset to Checkpoint
+- Start/Menu - Pause
+----- Baby (P2)
+- Left Stick - Move, Navigate Menu
+- A Button - Jump, Confirm In Menu
+- X Button - Grab Boxes(hold)
+- B Button - Break Grab
+- Y Button - Meow
+- Right Bumper - Lengthen Scarf
+- Left Bumper - Shorten Scarf
+- Back/Select - Reset to Checkpoint
+- Start/Menu - Pause
+
+===== Keyboard Controls (Disabled in script for final release except for menus)
+----- Grandma
+- WASD - Move Grandma
+- R. Shift - Grandma Jump
+- R Button - Grab Boxes/Baby (hold, release to let go/throw)
+- X Button - End Grab Without Throwing
+- ? Button - Meow
+- E Button - Lengthen Scarf
+- Q Button - Shorten Scarf
+----- Baby
+- Arrow Keys - Move Baby
+- L. Shift - Baby Jump
+- L Button - Grab boxes (hold)
+- K Button - Break Grab
+- M Button - Meow
+- > Button - Lengthen Scarf
+- < Button - Shorten Scarf
+----- Other
+- esc Button - Pause Menu
+- Enter Button - Confirm In Menu
+- Z Button - Reset to Checkpoint
+
+Thanks!
+- Scarf Cats Team

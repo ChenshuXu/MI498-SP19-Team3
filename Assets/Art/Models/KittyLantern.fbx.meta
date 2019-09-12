@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 7c70fd380afc14776ac9bb8459871218
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube116
+    100004: pCube117
+    100006: pCube118
+    100008: pCube119
+    100010: pCube120
+    100012: pCube121
+    100014: pCylinder18
+    100016: pCylinder19
+    100018: pCylinder20
+    100020: pCylinder21
+    100022: pCylinder22
+    100024: pCylinder23
+    100026: pCylinder24
+    100028: polySurface357
+    100030: polySurface358
+    100032: polySurface358 1
+    100034: polySurface359
+    100036: polySurface361
+    100038: polySurface362
+    100040: polySurface363
+    100042: polySurface363 1
+    100044: polySurface364
+    100046: polySurface365
+    100048: pTorus18
+    100050: transform197
+    100052: transform198
+    100054: transform199
+    100056: transform200
+    100058: transform201
+    100060: transform202
+    100062: transform203
+    100064: transform204
+    100066: transform205
+    100068: transform206
+    100070: transform207
+    100072: transform208
+    100074: transform209
+    100076: transform210
+    100078: transform211
+    100080: transform212
+    100082: transform214
+    100084: transform215
+    100086: transform216
+    100088: transform217
+    100090: transform218
+    400000: //RootNode
+    400002: pCube116
+    400004: pCube117
+    400006: pCube118
+    400008: pCube119
+    400010: pCube120
+    400012: pCube121
+    400014: pCylinder18
+    400016: pCylinder19
+    400018: pCylinder20
+    400020: pCylinder21
+    400022: pCylinder22
+    400024: pCylinder23
+    400026: pCylinder24
+    400028: polySurface357
+    400030: polySurface358
+    400032: polySurface358 1
+    400034: polySurface359
+    400036: polySurface361
+    400038: polySurface362
+    400040: polySurface363
+    400042: polySurface363 1
+    400044: polySurface364
+    400046: polySurface365
+    400048: pTorus18
+    400050: transform197
+    400052: transform198
+    400054: transform199
+    400056: transform200
+    400058: transform201
+    400060: transform202
+    400062: transform203
+    400064: transform204
+    400066: transform205
+    400068: transform206
+    400070: transform207
+    400072: transform208
+    400074: transform209
+    400076: transform210
+    400078: transform211
+    400080: transform212
+    400082: transform214
+    400084: transform215
+    400086: transform216
+    400088: transform217
+    400090: transform218
+    2100000: Log
+    2100002: LogCap
+    2100004: Rock4
+    2100006: Candle
+    2100008: Rope
+    2100010: Rock2
+    2300000: polySurface359
+    2300002: polySurface363
+    3300000: polySurface359
+    3300002: polySurface363
+    4300000: polySurface359
+    4300002: polySurface363
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candle
+    second: {fileID: 2100000, guid: 2093e75d37b604e27868e392ba04b103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log
+    second: {fileID: 2100000, guid: a054f805a30d43e4db0012149b4dadbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LogCap
+    second: {fileID: 2100000, guid: e76dfa61c4a2b463e89d58d1ff873713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock2
+    second: {fileID: 2100000, guid: ebef9407305d14f5dab43c2f5a17cd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock4
+    second: {fileID: 2100000, guid: af04c795314ad404ca6af9d94446c12f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope
+    second: {fileID: 2100000, guid: 694e3fe38ec5e41f0843c2a7148d6aa9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
